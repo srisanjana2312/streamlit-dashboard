@@ -32,7 +32,7 @@ A Streamlit web app to visualize housing data from Chennai. Built as part of FDS
 
 &#x20;  ```bash
 
-&#x20;  git clone https://github.com/sri sanjana/streamlit-dashboard.git
+&#x20;  git clone https://github.com/  sri sanjana/streamlit-dashboard.git
 
 &#x20;  cd streamlit-dashboard
 
